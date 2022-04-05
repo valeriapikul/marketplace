@@ -1,0 +1,2216 @@
+@media (max-width: 1368px) {
+    .sale_form {
+        background-position: -67px 378px;
+    }
+}
+
+@media (max-width: 1280px) {}
+
+@media (max-width: 1024px) {
+    .discount__inner {
+        margin: 40px 0 0 0;
+    }
+
+    .training_format {
+        margin-bottom: 70px;
+    }
+
+    .marketplace .header_marketplace {
+        padding-top: 70px;
+    }
+
+    .sale_on_marketplace {
+        padding: 70px 0;
+    }
+
+    .Training_program {
+        padding-top: 70px;
+    }
+
+    .for_you .title_for_you h2 {
+        padding-top: 70px;
+    }
+
+    .for_you_container .info_block_deckription p {
+        padding-bottom: 10px;
+    }
+
+    .for_you {
+        padding-bottom: 70px;
+    }
+
+    .asked_questions_content {
+        padding-bottom: 70px;
+    }
+
+    .sale_form {
+        padding-top: 70px;
+    }
+
+    .sale_form {
+        background-image: none !important;
+    }
+
+    .sale_form h2::before {
+        content: '';
+        position: absolute;
+        background-image: none;
+    }
+
+    .form_block_left_2 .left_contentblok {
+        width: 313px;
+        max-height: 421px;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 992px) {
+    .header__inner {
+        padding-bottom: 50px;
+    }
+
+    .header_text_top {
+        margin-bottom: 11px;
+        font-weight: 700;
+    }
+
+    .title_number_one {
+        margin-bottom: 15px;
+        font-weight: 700;
+    }
+
+    .header_text_bottom {
+        max-width: 377px;
+        margin: 0 auto;
+    }
+
+    .form_block_left {
+        display: none;
+    }
+
+    .discount__top {
+        justify-content: center;
+        position: relative;
+        border-radius: 20px;
+    }
+
+    .formRh_title {
+        display: none;
+    }
+
+    .discount__title {
+        display: block;
+        text-transform: uppercase;
+        color: #A11B99;
+        text-align: center;
+        margin-bottom: 120px;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .discount__title span {
+        color: #491772;
+    }
+
+    .price {
+        position: absolute;
+        left: 312px;
+        top: -100px;
+        background: #A11B99;
+        border-radius: 50%;
+        padding: 50px;
+    }
+
+    .checkbox_two {
+        display: none;
+    }
+
+    .top-img-small {
+        display: block;
+        position: absolute;
+        top: 205px;
+        left: -150px;
+        width: 400px;
+        transform: rotate(15deg);
+    }
+
+    .top-img-money {
+        display: block;
+        position: absolute;
+        top: 375px;
+        width: 98px;
+        right: 0;
+    }
+
+    .training_format {
+        display: block;
+        margin: 20px 0;
+    }
+
+    .start_training_left {
+        width: 100%;
+        border-radius: 20px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .format_training_right {
+        width: 100%;
+        border-radius: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .format_training_right {
+        width: 100%;
+    }
+
+    .when_beginning img {
+        display: none;
+    }
+
+    .big_clock {
+        display: block;
+    }
+
+    .start_training_left-left img {
+        display: block;
+        width: 30px;
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+
+    .start_training_left .when_beginning {
+        justify-content: left;
+    }
+
+    .format_tr img {
+        display: none;
+    }
+
+    .format_training_right-left img {
+        display: block;
+        margin-top: 25px;
+        width: 50px;
+    }
+
+    .marketplace .header_marketplace p {
+        text-transform: uppercase;
+        color: #491772;
+    }
+
+    .marketplace .header_marketplace h2 {
+        display: none;
+    }
+
+    .marketplace .header_marketplace .header_marketplace_text {
+        text-transform: none;
+    }
+
+    .header_marketplace-subtitle {
+        display: block;
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+        color: #A11B99;
+    }
+
+    .marketplace .header_marketplace {
+        padding-top: 50px;
+    }
+
+    .content_marketplace_top,
+    .content_marketplace_botoom {
+        display: block;
+    }
+
+    .marketplace_oneBlock,
+    .marketplace_twoBlock,
+    .marketplace_threeBlock,
+    .marketplace_forBlock {
+        width: 100%;
+        margin-bottom: 20px;
+        border-radius: 20px;
+    }
+
+    .sale_on_marketplace {
+        background-image: none !important;
+        padding: 50px 0 0 0;
+    }
+
+    .sale_on_marketplace-wrapper {
+        background: linear-gradient(180deg, #F1E4FC 0%, #FFECF9 100%);
+        padding-bottom: 30px;
+    }
+
+    .title_sale_marketplace h2 {
+        font-weight: 700;
+        text-align: left;
+        margin-left: 400px;
+        padding-top: 20px;
+        font-size: 50px;
+        line-height: 60px;
+        width: 445px;
+    }
+
+    .sale_on_marketplace-wrapper {
+        background-repeat: no-repeat;
+        position: relative;
+    }
+
+    .sale_on_marketplace-img {
+        position: absolute;
+        display: block;
+        top: -65px;
+        width: 250px;
+        height: 300px;
+    }
+
+    .sale_on_oneCart,
+    .sale_on_twoCart,
+    .sale_on_threeCart,
+    .sale_on_forCart,
+    .sale_on_fifeCart {
+        width: 100%;
+        margin-bottom: 20px;
+        padding: 30px;
+        border-radius: 20px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_oneCart p,
+    .sale_on_twoCart h5,
+    .sale_on_twoCart p,
+    .sale_on_threeCart h5,
+    .sale_on_threeCart p,
+    .sale_on_forCart h5,
+    .sale_on_forCart p,
+    .sale_on_fifeCart h5,
+    .sale_on_fifeCart p {
+        padding: 0;
+        margin: 0;
+        text-align: left;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        margin-bottom: 10px;
+    }
+
+    .Training_program {
+        padding: 30px 0;
+        position: relative;
+    }
+
+    .title_training_program {
+        width: 265px;
+        text-align: left;
+    }
+
+    .Training_program-img {
+        position: absolute;
+        display: block;
+        top: 0;
+        width: 300px;
+        height: 300px;
+        right: 0;
+    }
+
+    .title_time_go h2 {
+        margin: 0;
+        text-align: left;
+        width: 740px;
+        padding-bottom: 20px;
+    }
+
+    .discount__subtitle {
+        display: block;
+        text-transform: uppercase;
+        color: #A11B99;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+        width: 450px;
+    }
+
+    .discount__img {
+        display: block;
+        position: absolute;
+        top: 183px;
+        right: 0;
+        width: 400px;
+        z-index: 1;
+    }
+
+    .title_time_go {
+        position: relative;
+    }
+
+    .for_you {
+        margin-top: 50px;
+        padding-bottom: 0;
+    }
+
+    .for_you .title_for_you h2 {
+        padding-top: 40px;
+        max-width: 500px;
+        margin: 0 auto;
+        padding-bottom: 83px;
+    }
+
+    .for_you_container {
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+
+    .for_you_container .info_blok_1,
+    .for_you_container .info_blok_2,
+    .for_you_container .info_blok_3 {
+        border-radius: 20px;
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+
+    .for_you_container .info_blok_2 {
+        align-self: flex-start;
+    }
+
+    .info_blok_1-img {
+        display: block;
+        position: absolute;
+        width: 263px;
+        left: -575px;
+        top: -142px;
+        z-index: 1;
+    }
+
+    .info_blok_1 {
+        position: relative;
+    }
+
+    .info_blok_2-img {
+        display: block;
+        position: absolute;
+        right: -575px;
+        width: 200px;
+        top: -40px;
+    }
+
+    .info_blok_2 {
+        position: relative;
+    }
+
+    .info_blok_3-img {
+        display: block;
+        position: absolute;
+        width: 263px;
+        left: -575px;
+        top: -38px;
+        z-index: 1;
+    }
+
+    .info_blok_3 {
+        position: relative;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        padding-top: 30px;
+        text-align: left;
+    }
+
+    .asked_questions {
+        background: #F9F1FE;
+    }
+
+    .asked_questions_content .asked_blok {
+        background: none;
+        border-radius: 0;
+    }
+
+    .asked_questions_content .asked_blok h4,
+    .asked_questions_content .asked_blok p {
+        margin-left: 0;
+        padding-bottom: 17px;
+        padding-top: 0;
+    }
+
+    .asked_blok {
+        border-bottom: 2px solid #fff;
+    }
+
+    .asked_questions_content {
+        padding-bottom: 0;
+    }
+
+    .asked_questions-img {
+        display: block;
+        position: absolute;
+        right: 0;
+        height: 270px;
+        top: -45px;
+    }
+
+    .asked_questions {
+        position: relative;
+    }
+
+    .sale_form {
+        padding-top: 40px;
+        padding-bottom: 345px;
+        position: relative;
+    }
+
+    .custom_block_form_2 {
+        display: block;
+        margin: 0;
+        padding: 0;
+        background-color: transparent;
+        max-width: none;
+    }
+
+    .form_block_left_2 .left_contentblok {
+        margin-left: 0;
+        width: 100%;
+        border-radius: 20px;
+        margin-bottom: 20px;
+    }
+
+    .form_block_left_2 {
+        margin: 0;
+    }
+
+    .sale_form-text {
+        display: none;
+    }
+
+    .sale_form .form_block_right {
+        background: #491772;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .sale_form-subtitle {
+        display: block;
+        color: #491772;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+        width: 430px;
+        margin-bottom: 20px;
+    }
+
+    .sale_form-text-two {
+        display: block;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+        text-transform: uppercase;
+        color: #A11B99;
+        margin-bottom: 20px;
+        width: 465px;
+    }
+
+    .sale_form-img {
+        transform: scale(-1, 1);
+        position: absolute;
+        display: block;
+        right: 0;
+        bottom: 229px;
+        width: 300px;
+    }
+
+    .footer_container {
+        flex-direction: column;
+        align-items: center;
+        min-height: 640px;
+        margin-top: 0;
+    }
+
+    .footer_blok_left,
+    .footer_blok_center,
+    .footer_blok_right {
+        text-align: center;
+    }
+
+    .footer_center_top_img,
+    .footer_center_bottom_img {
+        justify-content: space-between;
+        width: 400px;
+    }
+
+    .checkbox .checkbox_text label {
+        line-height: 24px;
+    }
+}
+
+@media (max-width: 912px) {
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -494px;
+    }
+
+    .info_blok_2-img {
+        right: -494px;
+    }
+}
+
+@media (max-width: 820px) {
+    .title_sale_marketplace h2 {
+        margin-left: 320px;
+    }
+
+    .title_time_go h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -403px;
+    }
+
+    .info_blok_2-img {
+        right: -403px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .sale_form h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .price {
+        left: 255px;
+    }
+}
+
+@media (max-width: 768px) {
+    .title_number_one {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .discount__title {
+        width: 385px;
+        margin: 0 auto;
+        margin-bottom: 110px;
+    }
+
+    .discount__top {
+        margin-top: 120px;
+    }
+
+    .top-img-small {
+        top: 195px;
+    }
+
+    .title_sale_marketplace h2,
+    .title_training_program h2,
+    .for_you .title_for_you h2,
+    .asked_questions .asked_questions_title h2,
+    .sale_form h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .title_sale_marketplace h2 {
+        width: 370px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        width: 500px;
+    }
+
+    .sale_on_marketplace-img {
+        top: -45px;
+        width: 200px;
+        height: 235px;
+    }
+
+    .Training_program-img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .title_time_go h2 {
+        font-size: 40px;
+        line-height: 50px;
+        width: 625px;
+    }
+
+    .discount__top {
+        margin-top: 30px;
+    }
+
+    .discount__img {
+        top: 70px;
+        width: 350px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -351px;
+    }
+
+    .info_blok_2-img {
+        right: -351px;
+    }
+
+    .form_block_left_2 .left_contentblok h4 {
+        width: 400px;
+    }
+
+    .start_training_left,
+    .format_training_right {
+        justify-content: flex-start;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .title_number_one {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .top-img-small {
+        top: 170px;
+        width: 360px;
+    }
+
+    .discount__top {
+        margin-top: 100px;
+    }
+
+    .price {
+        left: 170px;
+        top: -80px;
+        padding: 35px;
+    }
+
+    .discount__top {
+        padding-right: 10px;
+    }
+
+    .marketplace .header_marketplace .header_marketplace_text {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .marketplace .header_marketplace {
+        padding-top: 35px;
+    }
+
+    .marketplace_oneBlock,
+    .marketplace_twoBlock,
+    .marketplace_threeBlock,
+    .marketplace_forBlock {
+        height: 90px;
+    }
+
+    .marketplace_oneBlock p,
+    .marketplace_twoBlock p,
+    .marketplace_threeBlock p,
+    .marketplace_forBlock p {
+        margin-top: 25px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .marketplace_oneBlock img,
+    .marketplace_twoBlock img,
+    .marketplace_threeBlock img,
+    .marketplace_forBlock img {
+        margin-top: 10px;
+        width: 50px;
+        height: 53px;
+    }
+
+    .title_sale_marketplace h2 {
+        margin-left: 200px;
+    }
+
+    .sale_on_marketplace-img {
+        top: -30px;
+        width: 200px;
+        height: 220px;
+    }
+
+    .programBlok_1 h5,
+    .programBlok_1 a,
+    .programBlok_2 h5,
+    .programBlok_2 a,
+    .programBlok_3 h5,
+    .programBlok_3 a,
+    .programBlok_4 h5,
+    .programBlok_4 a,
+    .programBlok_5 h5,
+    .programBlok_5 a,
+    .programBlok_6 h5,
+    .programBlok_6 a,
+    .programBlok_7 h5,
+    .programBlok_7 a,
+    .programBlok_8 h5,
+    .programBlok_8 a,
+    .programBlok_9 h5,
+    .programBlok_9 a {
+        padding: 15px;
+        text-align: left;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .title_time_go h2 {
+        font-size: 30px;
+        line-height: 40px;
+        width: 470px;
+        font-weight: 700;
+    }
+
+    .discount__subtitle {
+        font-size: 20px;
+        line-height: 30px;
+        width: 290px;
+    }
+
+    .discount__top {
+        margin-top: 15px;
+    }
+
+    .discount__img {
+        top: 104px;
+        width: 280px;
+    }
+
+    .for_you_container .info_blok_1,
+    .for_you_container .info_blok_2,
+    .for_you_container .info_blok_3 {
+        width: 335px;
+        padding: 15px;
+    }
+
+    .for_you_container .info_blok_1 .chifra_1,
+    .for_you_container .info_blok_2 .chifra_2,
+    .for_you_container .info_blok_3 .chifra_3 {
+        width: 75px;
+        height: 75px;
+    }
+
+    .for_you_container .info_blok_1 .chifra_1 h5,
+    .for_you_container .info_blok_2 .chifra_2 h5,
+    .for_you_container .info_blok_3 .chifra_3 h5 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-top: 18px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -256px;
+    }
+
+    .info_blok_1-img {
+        width: 250px;
+        top: -60px;
+    }
+
+    .info_blok_2-img {
+        right: -254px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .asked_questions_content .asked_blok h4 {
+        width: 486px;
+    }
+
+    .sale_form h2 {
+        font-weight: 700;
+        width: 420px;
+        margin: auto;
+    }
+
+    .form_block_left_2 .left_contentblok h4,
+    .for_you .title_for_you h2,
+    .title_training_program h2 {
+        font-weight: 700;
+    }
+
+    .form_block_left_2 .left_contentblok ul li {
+        width: 325px;
+    }
+
+    .form_block_left_2 .left_contentblok {
+        max-height: 300px;
+    }
+
+    .sale_form-img {
+        right: 2px;
+        bottom: 197px;
+        width: 263px;
+    }
+
+    .sale_form-subtitle {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .sale_form-text-two {
+        font-size: 25px;
+        line-height: 35px;
+        width: 385px;
+    }
+}
+
+@media (max-width: 540px) {
+    .formRh_price .price_price p {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+        width: auto;
+        text-align: center;
+        margin-top: 11px;
+    }
+
+    .price {
+        padding: 25px;
+        height: 142px;
+        top: -75px;
+        left: 160px;
+    }
+
+    .formRh_price {
+        justify-content: space-around;
+    }
+
+    .formRh_price .sale_price p,
+    .formRh_price .pn_price,
+    .right_content_timer .timer_text p {
+        font-weight: 700;
+    }
+
+    .header_marketplace-title {
+        width: 350px;
+        margin: 0 auto;
+        font-weight: 700;
+    }
+
+    .marketplace_oneBlock p,
+    .marketplace_twoBlock p,
+    .marketplace_threeBlock p {
+        margin-top: 30px;
+    }
+
+    .marketplace_forBlock p {
+        margin-top: 15px;
+    }
+
+    .marketplace_oneBlock img,
+    .marketplace_twoBlock img,
+    .marketplace_threeBlock img,
+    .marketplace_forBlock img {
+        margin-top: 15px;
+    }
+
+    .title_sale_marketplace h2 {
+        font-size: 30px;
+        line-height: 35px;
+        width: 275px;
+    }
+
+    .sale_on_marketplace-img {
+        width: 185px;
+        height: 196px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        font-weight: 700;
+    }
+
+    .programBlok_8 h5 {
+        padding-top: 29px;
+    }
+
+    .info_blok_1-img {
+        top: -84px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -195px;
+    }
+
+    .info_blok_2-img {
+        right: -194px;
+    }
+
+    .sale_form h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .sale_form-subtitle {
+        font-size: 20px;
+        line-height: 30px;
+        width: 282px;
+    }
+
+    .sale_form-text-two {
+        font-size: 20px;
+        line-height: 30px;
+        width: 305px;
+    }
+
+    .sale_form-img {
+        bottom: 230px;
+        width: 256px;
+    }
+
+    .sale_form h2::before {
+        width: 0;
+        height: 0;
+        left: 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .top-img-small {
+        top: 144px;
+        width: 341px;
+    }
+
+    .header_text_top {
+        font-size: 22px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+
+    .title_number_one {
+        font-size: 25px;
+        line-height: 35px;
+        font-weight: 700;
+    }
+
+    .header_text_bottom {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .discount__title {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .discount__title {
+        width: 300px;
+        margin-top: 70px;
+    }
+
+    .top-img-money {
+        top: 320px;
+    }
+
+    .discount__top {
+        padding: 15px;
+    }
+
+    .formRh_price {
+        justify-content: space-between;
+    }
+
+    .price {
+        left: 140px;
+    }
+
+    .title_sale_marketplace h2 {
+        margin-left: 169px;
+        padding-top: 32px;
+    }
+
+    .sale_on_marketplace-img {
+        width: 180px;
+        height: 190px;
+        top: -26px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        font-size: 20px;
+        line-height: 30px;
+        width: 366px;
+    }
+
+    .sale_on_oneCart h5 {
+        width: 348px;
+    }
+
+    .sale_on_oneCart p,
+    .sale_on_twoCart p,
+    .sale_on_threeCart p,
+    .sale_on_forCart p,
+    .sale_on_fifeCart p {
+        font-size: 16px;
+        line-height: 26px;
+        color: #491772;
+    }
+
+    .Training_program-img {
+        width: 200px;
+        height: 215px;
+        top: 45px;
+    }
+
+    .for_you_container .info_block_deckription p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-top: 0;
+    }
+
+    .for_you_container .info_blok_1,
+    .for_you_container .info_blok_2,
+    .for_you_container .info_blok_3 {
+        width: 260px;
+        padding: 10px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -210px;
+        width: 240px;
+    }
+
+    .info_blok_2-img {
+        right: -210px;
+    }
+
+    .asked_questions-img {
+        height: 235px;
+    }
+
+    .asked_questions_content .asked_blok h4 {
+        font-size: 20px;
+        line-height: 30px;
+        width: 404px;
+    }
+
+    .sale_form-small-img img {
+        display: block;
+        position: absolute;
+        top: -128px;
+        width: 147px;
+        height: 300px;
+        right: 0;
+    }
+
+    .sale_form-img {
+        display: none;
+    }
+
+    .sale_form-small-img {
+        position: relative;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        width: 400px;
+    }
+}
+
+@media (max-width: 420px) {
+    .price {
+        left: 108px;
+    }
+
+    .format_tr_dostup p,
+    .beginning_price p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .marketplace_oneBlock img,
+    .marketplace_twoBlock img,
+    .marketplace_threeBlock img,
+    .marketplace_forBlock img {
+        margin-left: 15px;
+    }
+
+    .marketplace_oneBlock p,
+    .marketplace_twoBlock p,
+    .marketplace_threeBlock p,
+    .marketplace_forBlock p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .title_sale_marketplace h2 {
+        position: absolute;
+        top: -28px;
+        left: -40px;
+    }
+
+    .title_sale_marketplace {
+        position: relative;
+        padding-top: 195px;
+    }
+
+    .Training_program-img {
+        width: 185px;
+        height: 205px;
+        top: 26px;
+    }
+
+    .title_training_program h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .title_training_program p {
+        font-size: 16px;
+        line-height: 26px;
+        width: 220px;
+    }
+
+    .programBlok_1 h5,
+    .programBlok_2 h5,
+    .programBlok_3 h5,
+    .programBlok_4 h5,
+    .programBlok_5 h5,
+    .programBlok_6 h5,
+    .programBlok_7 h5,
+    .programBlok_8 h5,
+    .programBlok_9 h5 {
+        margin-right: 0;
+    }
+
+    .title_time_go h2 {
+        font-size: 25px;
+        line-height: 35px;
+        width: 335px;
+        margin-bottom: 15px;
+    }
+
+    .discount__img {
+        top: 100px;
+        width: 215px;
+    }
+
+    .discount__top {
+        margin-top: 0;
+    }
+
+    .title_for_you h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -150px;
+        width: 218px;
+    }
+
+    .info_blok_2-img {
+        right: -150px;
+        top: -29px;
+        width: 166px;
+    }
+
+    .for_you_container .info_block_deckription p {
+        line-height: 20px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .asked_questions-img {
+        height: 207px;
+    }
+
+    .sale_form h2 {
+        font-size: 25px;
+        line-height: 35px;
+        width: 400px;
+    }
+
+    .form_block_left_2 .left_contentblok h4 {
+        font-size: 20px;
+        line-height: 30px;
+        width: 350px;
+    }
+
+    .form_block_left_2 .left_contentblok ul li {
+        width: 245px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .form_block_left_2 .left_contentblok {
+        max-height: 315px;
+    }
+
+    .sale_form-small-img img {
+        width: 121px;
+        height: 256px;
+        top: -112px;
+        right: -10px;
+    }
+
+    .sale_form-subtitle {
+        margin-bottom: 10px;
+    }
+
+    .sale_form-text-two {
+        font-size: 16px;
+        line-height: 24px;
+        width: 243px;
+    }
+
+    .footer_container {
+        margin-top: 60px;
+    }
+}
+
+@media (max-width: 414px) {
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        font-size: 18px;
+        line-height: 28px;
+        width: 330px;
+    }
+
+    .programBlok_1 h5,
+    .programBlok_1 a,
+    .programBlok_2 h5,
+    .programBlok_2 a,
+    .programBlok_3 h5,
+    .programBlok_3 a,
+    .programBlok_4 h5,
+    .programBlok_4 a,
+    .programBlok_5 h5,
+    .programBlok_5 a,
+    .programBlok_6 h5,
+    .programBlok_6 a,
+    .programBlok_7 h5,
+    .programBlok_7 a,
+    .programBlok_8 h5,
+    .programBlok_8 a,
+    .programBlok_9 h5,
+    .programBlok_9 a {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .title_for_you h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .info_blok_2-img {
+        right: -144px;
+        width: 160px;
+    }
+
+    .asked_questions_content .asked_blok p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .sale_form {
+        padding-top: 15px;
+    }
+}
+
+@media (max-width: 390px) {
+    .price {
+        padding: 13px;
+        height: 119px;
+        top: -53px;
+    }
+
+    .formRh_price .price_price p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .formRh_price .price_deckription p {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .formRh_price .sale_price p,
+    .formRh_price .pn_price {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .discount__title {
+        margin-bottom: 85px;
+    }
+
+    .right_content_timer .timer_text p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    #countdown {
+        font-size: 25px;
+    }
+
+    .sale_on_marketplace {
+        padding: 24px 0 0 0;
+    }
+
+    .title_sale_marketplace h2 {
+        font-size: 25px;
+        width: 226px;
+    }
+
+    .programBlok_7 h5 {
+        padding-top: 27px;
+    }
+
+    .for_you .title_for_you h2 {
+        font-size: 25px;
+        line-height: 35px;
+        max-width: 285px;
+    }
+
+    .for_you_container .info_block_deckription p {
+        font-size: 14px;
+        padding-bottom: 0;
+    }
+
+    .for_you_container .info_blok_1,
+    .for_you_container .info_blok_2,
+    .for_you_container .info_blok_3 {
+        min-height: 178px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -120px;
+        width: 188px;
+    }
+
+    .for_you_container .info_blok_1 .chifra_1 h5,
+    .for_you_container .info_blok_2 .chifra_2 h5,
+    .for_you_container .info_blok_3 .chifra_3 h5 {
+        font-size: 20px;
+        line-height: 38px;
+        padding-top: 11px;
+    }
+
+    .for_you_container .info_blok_1 .chifra_1,
+    .for_you_container .info_blok_2 .chifra_2,
+    .for_you_container .info_blok_3 .chifra_3 {
+        width: 60px;
+        height: 60px;
+    }
+
+    .info_blok_2-img {
+        right: -120px;
+        width: 134px;
+        top: 0;
+    }
+
+    .asked_questions_content .asked_blok h4 {
+        font-size: 18px;
+        line-height: 26px;
+        width: 370px;
+    }
+
+    .sale_form h2 {
+        font-size: 20px;
+        line-height: 30px;
+        width: 300px;
+    }
+
+    .form_block_left_2 .left_contentblok h4 {
+        font-size: 18px;
+        line-height: 26px;
+        width: 300px;
+        margin-bottom: 15px;
+    }
+
+    .sale_form-subtitle {
+        font-size: 18px;
+        line-height: 26px;
+        width: 272px;
+    }
+
+    .sale_form-small-img img {
+        width: 107px;
+        height: 234px;
+        top: -102px;
+        right: -7px;
+    }
+
+    .footer_center_top_img,
+    .footer_center_bottom_img {
+        width: 345px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        width: 312px;
+    }
+
+    .sale_on_oneCart,
+    .sale_on_twoCart,
+    .sale_on_threeCart,
+    .sale_on_forCart,
+    .sale_on_fifeCart {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 375px) {
+    .top-img-small {
+        top: 192px;
+        width: 308px;
+        left: -120px;
+    }
+
+    .sale_on_oneCart,
+    .sale_on_twoCart,
+    .sale_on_threeCart,
+    .sale_on_forCart,
+    .sale_on_fifeCart {
+        padding: 15px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        font-size: 16px;
+        line-height: 24px;
+        width: 322px;
+    }
+
+    .sale_on_oneCart p,
+    .sale_on_twoCart p,
+    .sale_on_threeCart p,
+    .sale_on_forCart p,
+    .sale_on_fifeCart p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .Training_program-img {
+        width: 175px;
+        height: 187px;
+        top: 50px;
+    }
+
+    .info_blok_2-img {
+        right: -105px;
+        width: 124px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -108px;
+        width: 179px;
+        top: -102px;
+    }
+
+    .info_blok_3-img {
+        top: -22px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .asked_questions-img {
+        height: 197px;
+        top: -36px;
+    }
+
+    .asked_questions_content .asked_blok h4 {
+        width: 300px;
+    }
+}
+
+@media (max-width: 360px) {
+    .price {
+        left: 95px;
+    }
+
+    #countdown {
+        font-size: 20px;
+    }
+
+    .checkbox .checkbox_text label {
+        line-height: 20px;
+    }
+
+    .header_marketplace-subtitle {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .marketplace_twoBlock p {
+        margin-top: 18px;
+    }
+
+    .title_sale_marketplace h2 {
+        font-size: 20px;
+        line-height: 30px;
+        padding-top: 44px;
+        width: 180px;
+    }
+
+    .sale_on_marketplace-img {
+        width: 172px;
+        height: 182px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        font-size: 14px;
+    }
+
+    .programBlok_1 h5,
+    .programBlok_1 a,
+    .programBlok_2 h5,
+    .programBlok_2 a,
+    .programBlok_3 h5,
+    .programBlok_3 a,
+    .programBlok_4 h5,
+    .programBlok_4 a,
+    .programBlok_5 h5,
+    .programBlok_5 a,
+    .programBlok_6 h5,
+    .programBlok_6 a,
+    .programBlok_7 h5,
+    .programBlok_7 a,
+    .programBlok_8 h5,
+    .programBlok_8 a,
+    .programBlok_9 h5,
+    .programBlok_9 a {
+        font-size: 16px;
+        line-height: 24px;
+        padding-right: 0;
+    }
+
+    .programBlok_7 h5 {
+        padding-top: 15px;
+    }
+
+    .Training_program-img {
+        width: 172px;
+        height: 180px;
+        top: 57px;
+    }
+
+    .title_training_program p {
+        line-height: 22px;
+    }
+
+    #countbown {
+        font-size: 20px;
+    }
+
+    .for_you_container .info_block_deckription p {
+        font-size: 12px;
+        line-height: 16px;
+        width: 186px;
+    }
+
+    .for_you_container .info_blok_1,
+    .for_you_container .info_blok_2,
+    .for_you_container .info_blok_3 {
+        min-height: 120px;
+    }
+
+    .for_you_container .info_blok_1,
+    .for_you_container .info_blok_2,
+    .for_you_container .info_blok_3 {
+        width: 210px;
+    }
+
+    .info_blok_1-img {
+        left: -140px;
+        top: -80px;
+    }
+
+    .info_blok_2-img {
+        right: -140px;
+    }
+
+    .info_blok_3-img {
+        top: -22px;
+        left: -140px;
+    }
+
+    .sale_form-small-img img {
+        width: 101px;
+        height: 209px;
+        top: -90px;
+    }
+
+    .sale_form-subtitle {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .footer_container {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 340px) {
+    .header_text_top {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .title_number_one {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .header_text_bottom {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .top-img-small {
+        top: 128px;
+    }
+
+    .discount__title {
+        font-size: 14px;
+        line-height: 20px;
+        width: 260px;
+    }
+
+    .top-img-money {
+        top: 280px;
+    }
+
+    .price {
+        left: 82px;
+    }
+
+    .left_content_timer img {
+        width: 62px;
+    }
+
+    .when_beginning p,
+    .format_tr p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .format_tr_dostup p,
+    .beginning_price p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .start_training_left,
+    .format_training_right {
+        padding: 10px;
+    }
+
+    .format_training_right-left img {
+        margin-top: 3px;
+        width: 40px;
+    }
+
+    .header_marketplace-subtitle {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .marketplace_oneBlock img,
+    .marketplace_twoBlock img,
+    .marketplace_threeBlock img,
+    .marketplace_forBlock img {
+        width: 37px;
+        height: 37px;
+        margin-top: 25px;
+    }
+
+    .sale_on_marketplace-img {
+        width: 162px;
+        height: 177px;
+        top: -21px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        width: 287px;
+        line-height: 20px;
+    }
+
+    .sale_on_oneCart p,
+    .sale_on_twoCart p,
+    .sale_on_threeCart p,
+    .sale_on_forCart p,
+    .sale_on_fifeCart p {
+        line-height: 20px;
+    }
+
+    .sale_on_marketplace-wrapper {
+        padding-bottom: 5px;
+    }
+
+    .programBlok_1 h5,
+    .programBlok_1 a,
+    .programBlok_2 h5,
+    .programBlok_2 a,
+    .programBlok_3 h5,
+    .programBlok_3 a,
+    .programBlok_4 h5,
+    .programBlok_4 a,
+    .programBlok_5 h5,
+    .programBlok_5 a,
+    .programBlok_6 h5,
+    .programBlok_6 a,
+    .programBlok_7 h5,
+    .programBlok_7 a,
+    .programBlok_8 h5,
+    .programBlok_8 a,
+    .programBlok_9 h5,
+    .programBlok_9 a {
+        font-weight: 700;
+    }
+
+    .title_time_go h2 {
+        font-size: 20px;
+        line-height: 24px;
+        width: 275px;
+    }
+
+    .discount__subtitle {
+        font-size: 14px;
+        line-height: 20px;
+        width: 200px;
+    }
+
+    .discount__img {
+        top: 44px;
+        width: 193px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -120px;
+        width: 175px;
+    }
+
+    .info_blok_2-img {
+        right: -120px;
+    }
+
+    .asked_questions-img {
+        height: 186px;
+    }
+
+    .sale_form h5 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 12px;
+    }
+
+    .form_block_left_2 .left_contentblok {
+        padding-left: 15px;
+        max-height: 238px;
+    }
+
+    .form_block_left_2 .left_contentblok h4 {
+        font-size: 14px;
+        line-height: 20px;
+        width: 285px;
+    }
+
+    .form_block_left_2 .left_contentblok ul li {
+        width: 245px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .footer_center_top_img,
+    .footer_center_bottom_img {
+        width: 300px;
+    }
+
+    .sale_form {
+        padding-bottom: 275px;
+    }
+
+    .header_marketplace-title {
+        width: 310px;
+        font-weight: 700;
+    }
+
+    .marketplace .header_marketplace-title {
+        width: 219px;
+    }
+}
+
+@media (max-width: 320px) {
+    .top-img-small {
+        top: 135px;
+        width: 293px;
+    }
+
+    .price {
+        padding: 10px;
+        height: 87px;
+        top: -41px;
+        left: 94px;
+    }
+
+    .formRh_price .price_deckription p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .formRh_price .price_price p,
+    .marketplace .header_marketplace p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .formRh_price .sale_price p,
+    .formRh_price .pn_price {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .formRh_price .sale_deckription p,
+    .marketplace .header_marketplace .header_marketplace_text {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .right_content_timer .timer_text p,
+    .format_tr_dostup p,
+    .beginning_price p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    #countdown {
+        font-size: 15px;
+    }
+
+    .left_content_timer img {
+        width: 55px;
+    }
+
+    .checkbox .checkbox_text label {
+        line-height: 16px;
+        font-size: 10px;
+    }
+
+    .when_beginning p,
+    .format_tr p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .header_marketplace-subtitle {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .marketplace_oneBlock p,
+    .marketplace_twoBlock p,
+    .marketplace_threeBlock p,
+    .marketplace_forBlock p {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 700;
+        text-align: left;
+        margin-top: 35px;
+    }
+
+    .marketplace_forBlock p {
+        margin-top: 25px;
+    }
+
+    .sale_on_marketplace-img {
+        width: 156px;
+        height: 171px;
+    }
+
+    .title_sale_marketplace h2 {
+        padding-top: 38px;
+        left: -50px;
+    }
+
+    .title_sale_marketplace {
+        padding-top: 175px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        width: 270px;
+    }
+
+    .sale_on_oneCart p,
+    .sale_on_twoCart p,
+    .sale_on_threeCart p,
+    .sale_on_forCart p,
+    .sale_on_fifeCart p,
+    .asked_questions_content .asked_blok p,
+    .footer_link {
+        line-height: 16px;
+        font-size: 12px;
+    }
+
+    .title_training_program h2,
+    .for_you .title_for_you h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .title_training_program p {
+        font-size: 12px;
+        line-height: 16px;
+        width: 174px;
+    }
+
+    .Training_program-img {
+        width: 146px;
+        height: 153px;
+        top: 8px;
+    }
+
+    .programBlok_1,
+    .programBlok_2,
+    .programBlok_3,
+    .programBlok_4,
+    .programBlok_5,
+    .programBlok_6,
+    .programBlok_7,
+    .programBlok_8,
+    .programBlok_9 {
+        margin-top: 15px;
+    }
+
+    .programBlok_1 h5,
+    .programBlok_1 a,
+    .programBlok_2 h5,
+    .programBlok_2 a,
+    .programBlok_3 h5,
+    .programBlok_3 a,
+    .programBlok_4 h5,
+    .programBlok_4 a,
+    .programBlok_5 h5,
+    .programBlok_5 a,
+    .programBlok_6 h5,
+    .programBlok_6 a,
+    .programBlok_7 h5,
+    .programBlok_7 a,
+    .programBlok_8 h5,
+    .programBlok_8 a,
+    .programBlok_9 h5,
+    .programBlok_9 a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .programBlok_8 h5 {
+        padding-top: 25px;
+    }
+
+    #countbown {
+        font-size: 14px;
+    }
+
+    .info_blok_1-img,
+    .info_blok_3-img {
+        left: -100px;
+    }
+
+    .info_blok_2-img {
+        right: -100px;
+    }
+
+    .asked_questions_content .asked_blok h4 {
+        font-size: 14px;
+        line-height: 20px;
+        width: 280px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        width: 280px;
+    }
+
+    .sale_form h2 {
+        line-height: 24px;
+    }
+
+    .sale_form-subtitle {
+        font-size: 14px;
+        line-height: 20px;
+        width: 200px;
+    }
+
+    .sale_form-text-two {
+        font-size: 14px;
+        line-height: 20px;
+        width: 213px;
+    }
+
+    .sale_form {
+        padding-bottom: 250px;
+    }
+
+    .footer_center_top h4,
+    .footer_center_bottom h4,
+    .footer_blok_right .footer_link_rightbLok {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .footer_container {
+        min-height: 485px;
+    }
+}
+
+@media (max-width: 280px) {
+    .header_text_top {
+        font-size: 14px;
+    }
+
+    .title_number_one {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .header_text_bottom {
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .top-img-small {
+        top: 126px;
+        width: 274px;
+    }
+
+    .price {
+        left: 77px;
+    }
+
+    .header_marketplace-title {
+        width: 244px;
+    }
+
+    .marketplace_oneBlock p,
+    .marketplace_twoBlock p,
+    .marketplace_threeBlock p,
+    .marketplace_forBlock p {
+        margin-top: 25px;
+    }
+
+    .sale_on_marketplace-img {
+        width: 142px;
+        height: 159px;
+    }
+
+    .title_sale_marketplace h2 {
+        padding-top: 41px;
+        left: -84px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .sale_on_oneCart h5,
+    .sale_on_twoCart h5,
+    .sale_on_threeCart h5,
+    .sale_on_forCart h5,
+    .sale_on_fifeCart h5 {
+        width: 240px;
+    }
+
+    .sale_form h2 {
+        width: 252px;
+    }
+
+    .discount__img {
+        top: 73px;
+        width: 179px;
+    }
+
+    .info_blok_2-img {
+        right: -60px;
+        width: 109px;
+        top: 24px;
+    }
+
+    .asked_questions_content .asked_blok h4 {
+        width: 260px;
+    }
+
+    .form_block_left_2 .left_contentblok {
+        padding-left: 0;
+    }
+
+    .form_block_left_2 .left_contentblok ul li {
+        width: 220px;
+    }
+
+    .title_time_go h2 {
+        width: 255px;
+    }
+
+    .form_block_left_2 .left_contentblok h4 {
+        width: 260px;
+    }
+
+    .footer_center_top_img,
+    .footer_center_bottom_img {
+        width: 270px;
+    }
+
+    .asked_questions .asked_questions_title h2 {
+        width: 237px;
+    }
+}
